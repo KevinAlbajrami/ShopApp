@@ -1,3 +1,6 @@
 # ShopApp
-ShopApp is basic eCommerce app where a user can add a product to a basket and puchase it. THe page admin can create or edit products 
-This project is built using ASP.NET and C#. It use cache memory and SQL Server to store data.
+ShopApp is basic eCommerce app where a user can add a product to a basket and puchase it. 
+It tries to implement all bassic operations and eCommerce app would implement.
+A customer can browse, add to a basket and purchase products. An Admin can add/edit/delete products and manage/view orders.
+The site implements roles to distinguish users from each other. The temporary data is stored in cache memory using cookies, and permanent
+data is stored in an SQL database using Entity Framewoek and Migrations. 
