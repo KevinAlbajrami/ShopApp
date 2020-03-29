@@ -11,6 +11,7 @@ using ShopApp.DataAccess.InMemory;
 
 namespace ShopApp.WebUI.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class ProductManagerController : Controller
     {
         IRepository<Product> context;
