@@ -1,4 +1,5 @@
 # ShopApp
+#PLEASE NOTE: both contributors on this project are my accounts, due to some technical problems I had to use two accounts: KevinAlbajrami and MrNotSoGreat
 
 ShopApp is basic eCommerce app where a user can add a product to a basket and puchase it. 
 It tries to implement all bassic operations and eCommerce app would implement.
