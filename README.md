@@ -1,5 +1,5 @@
 # ShopApp
-#Please note that due to some technical problems I had to use two accounts to upload this repo: KevinAlbajrami and MrNotSoGreat are both #mine
+
 ShopApp is basic eCommerce app where a user can add a product to a basket and puchase it. 
 It tries to implement all bassic operations and eCommerce app would implement.
 A customer can browse, add to a basket and purchase products. An Admin can add/edit/delete products and manage/view orders.
